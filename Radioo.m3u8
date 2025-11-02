@@ -1,42 +1,116 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,Whisperings (Solo Piano Radio)
 http://pianosolo.streamguys.net:80/pianosolo48.aac
+#EXTINF:-1,Piano Landscapes
+http://playerservices.streamtheworld.com/api/livestream-redirect/ACIR23_S01.mp3
+#EXTINF:-1,Radio Caprice - Piano
+http://79.120.77.11:8002/piano
+#EXTINF:-1,Music Lake
+http://nap.casthost.net/proxy/musiclak/stream
 #EXTINF:-1,LOUNGE-RADIO.COM - swiss made
 http://77.235.42.90:8010
 #EXTINF:-1,LoungeRadio (MRG.fm)
-http://62.149.196.16:8060/stream2
+http://listen.mrg.fm:8060/stream2
 #EXTINF:-1,FFH LOUNGE
 http://mp3.ffh.de/ffhchannels/lounge.aac
+#EXTINF:-1,Maretimo Lounge Radio
+http://s37.derstream.net/maretimo-lounge.aac
+#EXTINF:-1,Media Hotel Radio
+http://nr1.newradio.it:9306/stream2
 #EXTINF:-1,Smooth Chill
 http://media-the.musicradio.com:80/Chill
-#EXTINF:-1,FFH EURODANCE
-http://mp3.ffh.de/ffhchannels/eurodance.aac
-#EXTINF:-1,CHILLOUT CROOZE
-http://streams.crooze.fm:8006/stream64
-#EXTINF:-1,城市廣播 (929)
-http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1,Capital Chill
+http://ice-sov.musicradio.com/CapitalChill
+#EXTINF:-1,Aplus.FM Deep
+http://s.aplus.fm/aplus_deep_32
+#EXTINF:-1,Kiss FM Deep
+http://online.kissfm.ua/KissFM_Deep_Live
+#EXTINF:-1,Radio Paradise: Global Mix
+http://stream.radioparadise.com/global-32
+#EXTINF:-1,Smooth Relax
+http://ice-sov.musicradio.com/SmoothRelax
+#EXTINF:-1,Smooth 80s
+http://ice-sov.musicradio.com/Smooth80s
+#EXTINF:-1,Smooth Lounge Global Radio
+http://ingest2.cdnstream1.com:7080/2586_32.mp3
+#EXTINF:-1,Smooth Country
+http://ice-sov.musicradio.com/SmoothCountry
+#EXTINF:-1,FFH CHILL & GRILL
+https://mp3.ffh.de/ffhchannels/chillandgrill.aac
 #EXTINF:-1,181.FM Chilled Out
 http://listen.181fm.com/181-chilled_64k.aac
-#EXTINF:-1,中廣音樂網 (iRadio)
-http://n07.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABdYDieOoA3NXQLiStvLUd1Q
-#EXTINF:-1,亞太電台
-https://n11.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABhJYEc10AD6wzniz1B9P1Qg
-#EXTINF:-1,亞洲電台
-https://n07.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABhJX-k7UAwIXsP4ZXX9khCQ
-#EXTINF:-1,飛揚調頻
-https://n09.rcs.revma.com/e0tdah74hv8uv?rj-ttl=5&rj-tok=AAABhJYHI6kAPufMtbo4eU0inQ
-#EXTINF:-1,(/peacefulpiano.aac)
-http://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
-#EXTINF:-1,全國廣播
-http://n14.rcs.revma.com/044q61ha7a0uv?rj-ttl=5&rj-tok=AAABgcU_gpkAVdxMRvtp20R4ZA
-#EXTINF:-1,ICRT
-https://live.leanstream.co/ICRTFM-MP3
+#EXTINF:-1,CHILLOUT CROOZE
+http://streams.crooze.fm:8006/stream64
+#EXTINF:-1,RadioX Chilled
+http://ice-sov.musicradio.com/RadioXChilled
+#EXTINF:-1,Radio Chillout
+https://stream1.multi-radio.com/chillout
+#EXTINF:-1,Chilltrax
+http://server1.chilltrax.com:9010/;
+#EXTINF:-1,Breezy 101
+http://ice3.securenetsystems.net/WLIN
+Super Hits of the 60s and 70s
+http://ice10.securenetsystems.net/WKOZ
+#EXTINF:-1,Smooth Radio
+http://ice-sov.musicradio.com/SmoothUK
+#EXTINF:-1,FFH JUST 90s
+https://mp3.ffh.de/ffhchannels/90er.aac
+#EXTINF:-1,FFH DIE 2000ER
+https://mp3.ffh.de/ffhchannels/2000er.aac
+#EXTINF:-1,Radio Relax International
+http://online.radiorelax.ua/RadioRelax_Int_Live
+#EXTINF:-1,Capital Anthems
+http://ice-sov.musicradio.com/CapitalAnthems
+#EXTINF:-1,FFH ACOUSTIC HITS
+https://mp3.ffh.de/ffhchannels/acoustichits.aac
+#EXTINF:-1,FFH BRANDNEU
+http://mp3.ffh.de/ffhchannels/brandneu.aac
+#EXTINF:-1,Radio Caroline
+http://sc8.radiocaroline.net:8020/;
+#EXTINF:-1,HIT RADIO FFH
+http://mp3.ffh.de/radioffh/livestream.aac
+#EXTINF:-1,SLOWLY RADIO
+http://www.radioking.com/play/slowlyradio/476449
+#EXTINF:-1,Slow Radio
+http://bluford.torontocast.com:8078/slowradio32
+#EXTINF:-1,The Goosch Radio
+http://eu2.fastcast4u.com:3554/stream/2/;
+#EXTINF:-1,Heart UK
+http://ice-sov.musicradio.com/HeartUK
 #EXTINF:-1,FFH iTUNES TOP 40
 http://mp3.ffh.de/ffhchannels/top40.aac
 #EXTINF:-1,1766 Online Radio (Fitness)
 http://livestream.1766.today:1790/live2.mp3
+#EXTINF:-1,中廣音樂網 (iRadio)
+http://stream.rcs.revma.com/ndk05tyy2tzuv
+#EXTINF:-1,亞太電台
+https://stream.rcs.revma.com/kydend74hv8uv
+#EXTINF:-1,亞洲電台
+https://stream.rcs.revma.com/xpgtqc74hv8uv
+#EXTINF:-1,飛揚調頻
+https://stream.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1,YES 933
+http://19183.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1,LOVE 972
+http://28373.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1,CAPITAL 958
+http://28443.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1,Peaceful Piano
+http://peacefulpiano.stream.publicradio.org/peacefulpiano.aac
+#EXTINF:-1,城市廣播 (929)
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1,全國廣播
+http://n14.rcs.revma.com/044q61ha7a0uv
+#EXTINF:-1,ICRT
+http://stream.rcs.revma.com/nkdfurztxp3vv
+#EXTINF:-1,Radio Caprice - C-Pop Chinese Pop
+http://213.141.131.10:8002/cpop
+#EXTINF:-1,PopTron [SomaFM]
+http://stream.somafm.com/poptron-32-aac
 #EXTINF:-1,The Trip [SomaFM]
-https://ice6.somafm.com/thetrip-32-aac
+https://stream.somafm.com/thetrip-32-aac
+#EXTINF:-1,Digitalis [SomaFM]
+http://ice1.somafm.com/digitalis-32.aac
 #EXTINF:-1,Groove Salad [SomaFM]
 https://ice2.somafm.com/groovesalad-32-aac
 #EXTINF:-1,Groove salad Classic [SomaFM]
@@ -49,7 +123,31 @@ https://ice1.somafm.com/synphaera-32-aac
 https://ice1.somafm.com/lush-32-aac
 #EXTINF:-1,cliqhop [SomaFM]
 https://ice4.somafm.com/cliqhop-32-aac
+#EXTINF:-1,Beat Blender [SomsFM]
+http://stream.somafm.com/beatblender-32-aac
 #EXTINF:-1,Relaxation Island
-http://s2.voscast.com:7932
-#EXTINF:-1,Deep House Radio DHR (Lounge Chill Dub Ibiza) Cork Ireland
-https://deephouseradio.radioca.st
+http://s2.voscast.com:7932/
+#EXTINF:-1,警廣全國治安交通網
+http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+#EXTINF:-1,警廣台中台
+https://stream.pbs.gov.tw/live/TCS/playlist.m3u8
+#EXTINF:-1,警廣台南台
+https://stream.pbs.gov.tw/live/TNS/playlist.m3u8
+#EXTINF:-1,警廣台北台
+https://stream.pbs.gov.tw/live/TPS/playlist.m3u8
+#EXTINF:-1,佳音聯播網
+https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm909/playlist.m3u8
+#EXTINF:-1,飛碟聯播網
+https://stream.rcs.revma.com/em90w4aeewzuv.m4a
+#EXTINF:-1,中廣流行網
+https://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1,中廣新聞網
+https://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1,BOOS ONLINE RADIO
+https://stream.radiojar.com/ehzvurp9tv8uv
+#EXTINF:-1,GOJOY
+https://play.gojoy.org/audio/stream
+#EXTINF:-1,News 98
+https://stream.rcs.revma.com/pntx1639ntzuv
+#EXTINF:-1,環宇廣播電台
+https://stream.rcs.revma.com/srn5f9kmwxhvv
